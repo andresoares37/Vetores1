@@ -22,7 +22,7 @@ namespace Vetores1
                 sum += vet[i];
             }
 
-            double avg = sum / 3;
+            double avg = sum / n;
 
             Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2", CultureInfo.InvariantCulture));
         }
