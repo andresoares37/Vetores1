@@ -1,0 +1,13 @@
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.exe
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.deps.json
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.runtimeconfig.json
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.runtimeconfig.dev.json
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.dll
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\bin\Debug\netcoreapp3.1\Vetores1.pdb
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.csprojAssemblyReference.cache
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.AssemblyInfoInputs.cache
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.AssemblyInfo.cs
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.csproj.CoreCompileInputs.cache
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.dll
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.pdb
+C:\Users\a.soares.dos.santos\source\repos\Vetores1\obj\Debug\netcoreapp3.1\Vetores1.genruntimeconfig.cache
